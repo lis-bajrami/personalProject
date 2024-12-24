@@ -1,4 +1,4 @@
- /* Reset and basic styles */
+
  * {
     margin: 0;
     padding: 0;
@@ -9,7 +9,7 @@ body {
     line-height: 1.6;
 }
 
-/* Header styles */
+
 header {
     display: flex;
     justify-content: space-between;
@@ -42,7 +42,7 @@ nav a:hover {
     border-radius: 5px;
 }
 
-/* Hero section */
+
 .hero {
     text-align: center;
     padding: 2rem;
@@ -50,7 +50,7 @@ nav a:hover {
     margin-bottom: 1rem;
 }
 
-/* Footer */
+
 footer {
     text-align: center;
     background-color: #333;
